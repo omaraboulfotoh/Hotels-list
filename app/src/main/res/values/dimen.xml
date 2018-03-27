@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- font sizes -->
+    <dimen name="main_font_size">22sp</dimen>
+    <dimen name="secondary_font_size">15sp</dimen>
+    <dimen name="tiny_font_size">11.5sp</dimen>
+    <dimen name="big_font_size">19sp</dimen>
+    <dimen name="button_font_size">19sp</dimen>
+    <dimen name="button_height">45dp</dimen>
+    <dimen name="button_topic">100dp</dimen>
+    <dimen name="text_medium_padding">5dp</dimen>
+</resources>

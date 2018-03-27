@@ -1,0 +1,37 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+
+    <!--style for Main text view-->
+    <style name="main_text_view">
+        <item name="android:textColor">@color/primary_text</item>
+        <item name="android:textSize">@dimen/main_font_size</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <!--style for normal text view-->
+    <style name="secondary_text_view">
+        <item name="android:textColor">@color/primary_text</item>
+        <item name="android:textSize">@dimen/secondary_font_size</item>
+        <item name="android:singleLine">false</item>
+    </style>
+    <!--style for normal text view-->
+    <style name="big_text_view">
+        <item name="android:textColor">@color/primary_text</item>
+        <item name="android:textSize">@dimen/big_font_size</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:singleLine">true</item>
+    </style>
+
+    <!--style for tiny text view-->
+    <style name="tiny_text_view">
+        <item name="android:textColor">@color/secondary_text</item>
+        <item name="android:textSize">@dimen/tiny_font_size</item>
+    </style>
+
+</resources>
